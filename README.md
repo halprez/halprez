@@ -8,8 +8,8 @@ My personal website is a little playground of its own: explore my experience, ed
 
 - **Portfolio:** [alexperez.dev](https://alexperez.dev)
 - **Experiments:** [github.com/halprez](https://github.com/halprez?tab=repositories)
-- **Thoughts:** Journalz](https:/autarqui.co/journal)
-- **Working on:** [autarqui.co](https://autarqui.co) — Solving real problems using software.
+- **Thoughts:** [Journal](https:/autarqui.co/journal)
+- **Working on:** [autarqui.co](https://autarqui.co) — Solving real world problems using software.
 
 I believe the best way to understand technology is to **build something with it**.
 
